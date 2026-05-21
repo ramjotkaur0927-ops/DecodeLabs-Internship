@@ -20,6 +20,14 @@ with 1,200 orders and 14 features using Python in Google Colab.
 
 ---
 
+## 💾 Data Files
+| File | Description |
+|---|---|
+| ⁠ Dataset for Data Analytics.xlsx ⁠ | Original raw dataset |
+| ⁠ Cleaned_Dataset.xlsx ⁠ | Cleaned & processed dataset |
+
+---
+
 ## 🔧 What I Did
 
 ### 1️⃣ Data Loading
@@ -44,8 +52,9 @@ with 1,200 orders and 14 features using Python in Google Colab.
 
 ## ▶️ How to Run
 1.⁠ ⁠Open ⁠ Decodelabs_Project_1.ipynb ⁠ in Google Colab
-2.⁠ ⁠Upload your dataset file
+2.⁠ ⁠Upload ⁠ Dataset for Data Analytics.xlsx ⁠
 3.⁠ ⁠Run all cells top to bottom
+4.⁠ ⁠⁠ Cleaned_Dataset.xlsx ⁠ will be generated
 
 ---
 
