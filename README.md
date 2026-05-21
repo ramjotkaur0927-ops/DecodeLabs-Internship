@@ -1,2 +1,3 @@
 # DecodeLabs-Internship
-"Ongoing internship projects at DecodeLabs as a Data Analyst - covering exploratory data analysis, data visualisation, dashboard development and machine learning workflows using Python,Pandas,Seaborn and Matplotlib."
+
+Data Analytics internship projects completed at DecodeLabs using Python, Pandas, NumPy, Matplotlib and Machine Learning techniques for data cleaning, visualization and analysis.
