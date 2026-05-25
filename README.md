@@ -21,10 +21,10 @@ with 1,200 orders and 14 features using Python in Google Colab.
 ---
 
 ## 💾 Data Files
-| File | Description |
-|---|---|
-| ⁠ Dataset for Data Analytics.xlsx ⁠ | Original raw dataset |
-| ⁠ Cleaned_Dataset.xlsx ⁠ | Cleaned & processed dataset |
+| File | Description |Link |
+|---|---|------|
+| ⁠ Dataset for Data Analytics.xlsx ⁠ | Original raw dataset |[📄 View](https://github.com/ramjotkaur0927-ops/DecodeLabs-Internship/blob/main/Dataset%20for%20Data%20Analytics.xlsx) |
+| ⁠ Cleaned_Dataset.xlsx ⁠ | Cleaned & processed dataset |[✅ View](https://github.com/ramjotkaur0927-ops/DecodeLabs-Internship/blob/main/Cleaned_Dataset.xlsx) |
 
 ---
 
